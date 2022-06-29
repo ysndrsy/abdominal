@@ -1,4 +1,4 @@
-path: C:\Users\YasinDurusoy\Desktop\abdominal-detection-pycharm\abdominal-dataset-yolo
+path: ../input/teknofest-abdominal/abdominal-dataset-yolo
 train: images/train
 val:  images/val
 test: images/test
