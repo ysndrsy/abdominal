@@ -1,4 +1,4 @@
-path: ../input/teknofest-abdominal/abdominal-dataset-yolo
+path: '../input/teknofest-abdominal/abdominal-dataset-yolo'
 train: images/train
 val:  images/val
 test: images/test
