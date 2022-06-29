@@ -1,0 +1,9 @@
+train: ../../abdominal-dataset-yolo/images/train/ 
+val:  ../../abdominal-dataset-yolo/images/val/ 
+test: ../../abdominal-dataset-yolo/images/test/ 
+
+# number of classes
+nc: 6
+
+# class names
+names: ["class1","class2", "class3","class4","class5","class6"]
